@@ -1,2 +1,2 @@
 # ChatApi
-Fetching Data to tableView in Swift XCode
+Fetching Data through and presenting in tableView in Swift XCode
